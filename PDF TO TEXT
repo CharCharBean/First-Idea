@@ -1,5 +1,4 @@
 # First-Idea
-
 pip install pypdf
 
 from pypdf import PdfReader
